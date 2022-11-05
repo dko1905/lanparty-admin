@@ -1,0 +1,9 @@
+{
+  "name": "lanparty-admin",
+  "version": "0.0.1",
+  "description": "Lanparty UI for managing servers and events written in Elm",
+  "main": "index.html",
+  "repository": "https://github.com/Dko1905/lanparty-admin",
+  "author": "Coding Pirates Køge",
+  "license": "AGPL"
+}
